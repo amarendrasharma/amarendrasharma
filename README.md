@@ -76,3 +76,11 @@ Here are some ideas to get you started:
 
 </tbody>
 </table>
+
+
+<h3 align="center"> Connect with me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/amarendra-sharma/">LinkedIn</a> 
+ <a href="#">/</a>
+<a href="https://www.instagram.com/amar_developer/">Instagram</a>
+</p>
