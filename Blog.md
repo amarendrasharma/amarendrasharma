@@ -1,6 +1,7 @@
 ## blog 
 
-[GitHub Profile](./readme.md)
+[GitHub Profile](./README.md)
+[Resources](./links.md)
 
 
 
