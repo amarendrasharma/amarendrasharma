@@ -1,3 +1,7 @@
 ## blog 
 
-[Imdex](./Index.md)
+[GitHub Profile](./readme.md)
+
+
+
+
