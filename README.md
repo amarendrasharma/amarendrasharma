@@ -1,4 +1,4 @@
-[Home](/README.md)  [Blog](/log.md)  [Resources](/Index.md)
+### ~~[Home](/README.md)~~  &nbsp;&nbsp;&nbsp;&nbsp;   [Resources](/Index.md)
 
 ## Hi there 👋
 I am glad that you are here, at my github profile.
