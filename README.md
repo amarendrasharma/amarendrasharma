@@ -1,3 +1,5 @@
+[Home](/README.md)  [Blog](/blog.md)  [Resources](/index.md)
+
 ## Hi there 👋
 I am glad that you are here, at my github profile.
 I am Amar, a software developer from India. I have a keen interest in developing real things in web. These days I am using Laravel and Vue.js for 
