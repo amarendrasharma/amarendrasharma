@@ -1,7 +1,7 @@
 ### ~~[Home](/README.md)~~  &nbsp;&nbsp;&nbsp;&nbsp;   [Resources](/Index.md)
 
 ## Hi there 👋
-I am glad that you are here, at my github profile.
+I am glad that you are here.
 
 I'm Amarendra, a Front-End Engineer with 6+ years of experience in building responsive, accessible, and scalable web applications. My expertise includes Vue.js, React, Next.js, Tailwind CSS, and Bootstrap, and I'm dedicated to creating optimized, user-friendly applications. Based in India, I bring innovative solutions to life through effective front-end engineering.
 
